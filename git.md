@@ -3,5 +3,5 @@
 ## Setup and Config
 
 * git
-* config
+* [git config](./notes/git-config.md)
 * help
